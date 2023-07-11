@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/schedule-slb-app%20/static/css/main.b93cbd97.css",
+    "main.js": "/schedule-slb-app%20/static/js/main.0a5d774d.js",
+    "static/js/787.60e41f43.chunk.js": "/schedule-slb-app%20/static/js/787.60e41f43.chunk.js",
+    "index.html": "/schedule-slb-app%20/index.html",
+    "main.b93cbd97.css.map": "/schedule-slb-app%20/static/css/main.b93cbd97.css.map",
+    "main.0a5d774d.js.map": "/schedule-slb-app%20/static/js/main.0a5d774d.js.map",
+    "787.60e41f43.chunk.js.map": "/schedule-slb-app%20/static/js/787.60e41f43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b93cbd97.css",
+    "static/js/main.0a5d774d.js"
+  ]
+}
